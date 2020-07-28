@@ -29,7 +29,6 @@ while(A!=NULL){
 ++x;
 }
 reverse(v.begin(),v.end());
-int n=v.size();
 A=hey;
 int i=0;
 
