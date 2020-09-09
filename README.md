@@ -1,2 +1,2 @@
-# InterviewBit
-interview bit questions-programming
+# Coding
+ DSA questions-programming
